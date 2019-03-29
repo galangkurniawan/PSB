@@ -1,8 +1,4 @@
-# PSB
-Projek website penerimaan siswa baru
+# ci-restserver
+Check the recent version at https://github.com/chriskacerguis/codeigniter-restserver
 
-# PERCOBAAN
-testing
-
-# percobaan 2
-Candra
+My alternate version https://github.com/ardisaurus/old-rest-ci
