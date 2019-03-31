@@ -68,9 +68,6 @@ class Web extends CI_Controller {
 		$data['news'] = $this->M_user->tampil_news()->result();
 		$this->load->view('v_header',$data);
 		$this->load->view('v_index',$data);
-		
-		$this->load->view('v_cari',$data);	
-		$this->load->view('nemkecil',$data);
 		$this->load->view('v_footer',$data);
 
 	}
@@ -192,9 +189,9 @@ class Web extends CI_Controller {
 	}
 	//========================kontak
 	public function contact(){		
-		$data['judul'] = "Contact";
+		$data['judul'] = "Informasi";
 		$this->load->view('v_header',$data);
-		$this->load->view('v_contact',$data);
+		$this->load->view('v_cari',$data);
 		$this->load->view('v_footer',$data);
 	}
 	function contact_user(){

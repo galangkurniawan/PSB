@@ -1,7 +1,7 @@
 <style type="text/css">
     /* SELAMAT DATANG DI BLOG DUMET SCHOOL */
 
-/** {margin: 0; padding: 0;}
+* {margin: 0; padding: 0;}
 
 .form_hint, .required_notification {font-size: 11px;}
 
@@ -30,7 +30,7 @@ body {
 
 #main a:hover {
     color: #03F;    
-}*/
+}
 
 /* === Form Elements === */
 .contact_form ul {
@@ -136,13 +136,12 @@ button.submit:hover {
 button.submit:active {
     border: 1px solid #3B6386;
 }
-    
 
 /*-----------------------------------------------------*/
 
 /*---------------------------------------------------------------*/
 
-/*.select-style {
+.select-style {
     border: 1px solid #ccc;
     width: 120px;
     border-radius: 3px;
@@ -162,31 +161,31 @@ button.submit:active {
 
 .select-style select:focus {
     outline: none;
-}*/
+}
 
 
 </style>
 
 
 
-					<div class="about-us alternate">
-						 <div class="auto-container">
-        	<div class="sec-title text-center">
+					<div class="col-md-10 col-md-offset-1 text-center animate-box">
+						<div class="about-wrap">
+							<div class="heading-2">
 								<br><br><br><br>
 								<h2>Pendaftaran Online</h2>
 							</div>
 							<p>Usahakan data yang anda masukan benar, Jika terdapat kesalahan data harap menghubungi panitia pendaftaran di tempat.</p>
-							<p>Setelah anda mendaftar anda akan mendapatkan KODE PENDAFTARAN yg di gunakan nanti untuk pemberitahuan atau informasi mengenai pendaftaran ulang.</p>
+							<p>Setelah anda mendaftar anda akan mendapatkan KODE PENDAFTARAN yang di gunakan nanti untuk pemberitahuan atau informasi mengenai pendaftaran ulang.</p>
 						</div>
 					</div>
 
 
-		<div class="about-us alternate">
-						 <div class="auto-container">
-        	<div class="sec-title text-center">
-                <h2>Pendaftaran</h2>
-                <br><br><br>
+		<div id="colorlib-contact">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1 animate-box">
 						<div id="main">
+        <h4>Pendaftaran</h4>
         <?php echo form_open_multipart('web/daftar')?>
         
         <div class="contact_form">
