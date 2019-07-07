@@ -1,0 +1,148 @@
+/* Color Theme File */
+
+
+/* Color */
+.recipe-block-four .content-box .read-more,
+.recipe-block-four .content-box h3 a:hover,
+.services-section.style-three .service-block .icon-box,
+.recipe-block-three .content-box .read-more,
+.team-block .info-box .name a:hover,
+.recipe-block-two .content-box h3 a:hover,
+.food-block-two .inner-box h3 a:hover,
+.food-block-two .inner-box .price,
+.testimonial-carousel .owl-nav .owl-prev:hover, 
+.testimonial-carousel .owl-nav .owl-next:hover,
+.services-section.style-two .service-block .icon-box,
+.service-block .inner-box .icon-box,
+.blog-detail .inner-box .post-share-options .tags a:hover,
+.main-footer.style-three .footer-links li a:hover,
+.popular-category-list li a:hover,
+.sidebar-page-container .comments-area .comment-box .theme-btn,
+.latest-posts .post a:hover,
+.timetable .phone p,.recipe-block .content-box h3 a:hover,
+.news-block-two .lower-content h3 a:hover,
+.news-block .lower-content .info li a:hover,
+.news-block .lower-content h3 a:hover,
+.contact-section .contact-info-list p a:hover,
+.social-icon-one li a:hover,
+.timetable .phone p a,
+.food-block .inner-box .price,
+.food-block .inner-box h3 a:hover,
+.recipe-block .content-box .read-more,
+.news-block-two .lower-content .read-more ,
+.testimonial-carousel-three .owl-nav .owl-prev:hover,
+.testimonial-carousel-three .owl-nav .owl-next:hover,
+.testimonial-block .content-column .icon,
+.menu-block .price,
+.menu-block h3 a:hover,
+.recipe-block-three .content-box .read-more,
+.recipe-block-two .content-box .read-more,
+.recipes-carousel .owl-nav .owl-prev:hover,
+.recipes-carousel .owl-nav .owl-next:hover,
+.service-block .inner-box h3 a:hover,
+.page-title .page-breadcrumb li a:hover,
+.play-now .icon,
+.main-header.header-style-four .main-menu .navigation > li:hover > a,
+.main-header.header-style-four .main-menu .navigation > li.current > a,
+.main-header.header-style-four .main-menu .navigation > li.current-menu-item > a,
+.main-header.header-style-two .main-menu .navigation > li:hover > a,
+.main-header.header-style-two .main-menu .navigation > li.current > a,
+.main-header.header-style-two .main-menu .navigation > li.current-menu-item > a,
+.main-header.fixed-header .main-menu .navigation > li.current > a,
+.main-header.fixed-header .main-menu .navigation > li > a:hover,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li.current-menu-item > a,
+.btn-style-three:hover,
+.btn-style-two:hover,
+.btn-style-one:hover,
+.theme_color,
+a{
+	color:#39CCCC;
+}
+
+/*Background Color*/
+.sidebar-page-container .comments-area .comment-box .theme-btn:hover,
+.main-footer .footer-bottom,
+.contact-section .form-column .title,
+.contact-section .contact-info-list .icon,
+.ui-state-active, 
+.ui-widget-content .ui-state-active, 
+.ui-widget-header .ui-state-active, 
+a.ui-button:active, .ui-button:active, 
+.ui-button.ui-state-active:hover,
+.testimonial-carousel-two .owl-dots .owl-dot:hover,
+.testimonial-carousel-two .owl-dots .owl-dot.active,
+.main-header.header-style-three .main-menu .navigation > li:hover > a,
+.main-header.header-style-three .main-menu .navigation > li.current > a,
+.main-header.header-style-three .main-menu .navigation > li.current-menu-item > a,
+.scroll-to-top:hover,
+.btn-style-eight:hover,
+.btn-style-seven:hover,
+.btn-style-two,
+.btn-style-one{
+	background-color:#39CCCC;
+}
+
+/*Border Color*/
+.booking-form,
+.recipe-block-three .content-box .read-more,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus,
+.sidebar-page-container .comments-area .comment-box .theme-btn,
+.blog-detail .inner-box .post-share-options .tags a:hover,
+.blog-detail .inner-box blockquote,
+.reservation-form-two .form-group input:focus,
+.reservation-form-two .form-group select:focus,
+.reservation-form-two .form-group textarea:focus,
+.reservation-form .form-group input:focus,
+.reservation-form .form-group select:focus,
+.reservation-form .form-group textarea:focus,
+.recipe-block .content-box .read-more,
+.ui-state-active, .recipe-block-two .content-box .read-more,
+.news-block-two .lower-content .read-more,
+.ui-widget-content .ui-state-active, 
+.ui-widget-header .ui-state-active, 
+.recipe-block-four .content-box .read-more,
+a.ui-button:active, .ui-button:active, 
+.ui-button.ui-state-active:hover,
+.main-menu .navigation > li > ul > li > ul,
+.main-menu .navigation > li > ul,
+.btn-style-two:hover,
+.btn-style-two{
+	border-color:#39CCCC;
+}
+
+
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		background-color: #39CCCC;
+		border-color:#39CCCC;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color: #39CCCC;
+	}
+	
+}
